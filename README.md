@@ -1,2 +1,2 @@
 # HeadCodes
-https://helbinvarghese.github.io/HeadCodes/
+http://headcodes.in/

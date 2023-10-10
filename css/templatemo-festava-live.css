@@ -44,7 +44,7 @@ https://templatemo.com/tm-583-festava-live
 }
 
 body {
-  background-color: var(--white-color);
+  background-color: rgba(0, 0, 0, 0.918);
   font-family: var(--body-font-family); 
 }
 
@@ -376,12 +376,19 @@ strong {
   z-index: 9;
 }
 
-.navbar-brand,
-.navbar-brand:hover {
-  color: var(--white-color);
+.navbar-brand {
   font-size: var(--h5-font-size);
   font-weight: var(--font-weight-bold);
 }
+
+.red-text {
+  color: red;
+}
+
+.white-text {
+  color: white;
+}
+
 
 .navbar-expand-lg .navbar-nav .nav-link {
   border-radius: var(--border-radius-large);
